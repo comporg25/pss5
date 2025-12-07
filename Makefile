@@ -1,0 +1,3 @@
+all:
+	javac ForthCompiler.java
+	java ForthCompiler ./code.fs
